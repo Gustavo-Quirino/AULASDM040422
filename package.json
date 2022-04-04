@@ -1,0 +1,22 @@
+{
+  "name": "aulasdm040422",
+  "version": "1.0.0",
+  "description": "Aula de Sistemas Distribuidos 04/04/2022",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gustavo-Quirino/AULASDM040422.git"
+  },
+  "author": "Gustavo Quirino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gustavo-Quirino/AULASDM040422/issues"
+  },
+  "homepage": "https://github.com/Gustavo-Quirino/AULASDM040422#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
